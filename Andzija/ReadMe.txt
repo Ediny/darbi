@@ -1,0 +1,1 @@
+Small bootstrap project of a fake store for knitted toys
